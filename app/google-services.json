@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "471437032176",
+    "firebase_url": "https://mapthing-ecbca-default-rtdb.firebaseio.com",
+    "project_id": "mapthing-ecbca",
+    "storage_bucket": "mapthing-ecbca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471437032176:android:91cc9d027e6fcfa56e2035",
+        "android_client_info": {
+          "package_name": "com.example.locationgps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6T7ZDGT9Hm2emF6TjL99zOp7rQyMiCVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471437032176:android:0206fad5b1ed5ad86e2035",
+        "android_client_info": {
+          "package_name": "com.example.mapthing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6T7ZDGT9Hm2emF6TjL99zOp7rQyMiCVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471437032176:android:f387e9dcd3ce6b096e2035",
+        "android_client_info": {
+          "package_name": "com.example.note"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6T7ZDGT9Hm2emF6TjL99zOp7rQyMiCVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
